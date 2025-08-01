@@ -24,5 +24,4 @@ This project demonstrates how to:
 
 ---
 
-## 📂 Project Structure
 
